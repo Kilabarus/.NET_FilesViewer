@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\bin\Debug\_2.FilesInDrivesStatistic.exe.config
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\bin\Debug\_2.FilesInDrivesStatistic.exe
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\bin\Debug\_2.FilesInDrivesStatistic.pdb
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\2. FilesAndDirsInDrivesStatistic.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\_2.FilesInDrivesStatistic.Form1.resources
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\_2.FilesInDrivesStatistic.Properties.Resources.resources
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\2. FilesAndDirsInDrivesStatistic.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\2. FilesAndDirsInDrivesStatistic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\_2.FilesInDrivesStatistic.exe
+C:\Users\Admin\Desktop\ВГУ\3 Курс\ОС\Лабы\2. FilesInDrivesStatistic\2. FilesInDrivesStatistic\obj\Debug\_2.FilesInDrivesStatistic.pdb
